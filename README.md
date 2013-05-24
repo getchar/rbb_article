@@ -1,0 +1,5 @@
+This repository contains scripts I've written as examples for a [tutorial](http://www/nonbird.com/rbb_article/redditbottutorial.html) I wrote about making Reddit bots.  Each script is meant to illustrate some functionality having to do with Reddit bots.  And they're designed to make sense when revealed in sequential pieces, interspersed with long passages of English text.
+
+What this means is that scripts don't do anything useful and they feature what might seem like some poor design decisions if you weren't reading them generously and hadn't been aprised of what I just told you.  So beware.  I'm sorry.
+
+Having said that, I'll run through the scripts below and explain what they do.  And if you have any interest in writing a Reddit bot of your own, please read [my tutorial](http://www.nonbird.com/rbb_article/redditbottutorial.html) and you can also check out my own Reddit bot, [CannedPostResponder](../cannedpostresponder).
